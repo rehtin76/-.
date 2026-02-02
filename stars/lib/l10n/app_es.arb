@@ -1,0 +1,17 @@
+{
+  "@@locale": "es",
+  "appTitle": "Estrellas",
+  "feed": "Inicio",
+  "upload": "Subir",
+  "profile": "Perfil",
+  "settings": "Ajustes",
+  "language": "Idioma",
+  "login": "Iniciar sesión",
+  "logout": "Cerrar sesión",
+  "uploadVideo": "Subir video",
+  "uploadPhoto": "Subir foto",
+  "videoLimit": "Video máx 5 minutos",
+  "description": "Descripción",
+  "save": "Guardar",
+  "cancel": "Cancelar"
+}

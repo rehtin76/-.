@@ -1,0 +1,17 @@
+{
+  "@@locale": "zh",
+  "appTitle": "明星",
+  "feed": "动态",
+  "upload": "上传",
+  "profile": "个人资料",
+  "settings": "设置",
+  "language": "语言",
+  "login": "登录",
+  "logout": "登出",
+  "uploadVideo": "上传视频",
+  "uploadPhoto": "上传照片",
+  "videoLimit": "视频最长5分钟",
+  "description": "描述",
+  "save": "保存",
+  "cancel": "取消"
+}

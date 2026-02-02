@@ -1,0 +1,17 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Stars",
+  "feed": "Лента",
+  "upload": "Загрузить",
+  "profile": "Профиль",
+  "settings": "Настройки",
+  "language": "Язык",
+  "login": "Войти",
+  "logout": "Выйти",
+  "uploadVideo": "Загрузить видео",
+  "uploadPhoto": "Загрузить фото",
+  "videoLimit": "Видео не более 5 минут",
+  "description": "Описание",
+  "save": "Сохранить",
+  "cancel": "Отмена"
+}

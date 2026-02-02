@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "appTitle": "Stars",
+  "feed": "Feed",
+  "upload": "Upload",
+  "profile": "Profile",
+  "settings": "Settings",
+  "language": "Language",
+  "login": "Login",
+  "logout": "Logout",
+  "uploadVideo": "Upload Video",
+  "uploadPhoto": "Upload Photo",
+  "videoLimit": "Video max 5 minutes",
+  "description": "Description",
+  "save": "Save",
+  "cancel": "Cancel"
+}
