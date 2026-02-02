@@ -1,0 +1,16 @@
+{
+  "appTitle": "Stars",
+  "login": "登录",
+  "signup": "注册",
+  "feed": "动态",
+  "explore": "发现",
+  "upload": "上传",
+  "profile": "个人资料",
+  "settings": "设置",
+  "language": "语言",
+  "video": "视频",
+  "photo": "照片",
+  "description": "才艺展示应用",
+  "email": "电子邮件",
+  "password": "密码"
+}

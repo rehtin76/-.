@@ -1,0 +1,16 @@
+{
+  "appTitle": "Stars",
+  "login": "Login",
+  "signup": "Sign Up",
+  "feed": "Feed",
+  "explore": "Explore",
+  "upload": "Upload",
+  "profile": "Profile",
+  "settings": "Settings",
+  "language": "Language",
+  "video": "Video",
+  "photo": "Photo",
+  "description": "App for talented people",
+  "email": "Email",
+  "password": "Password"
+}

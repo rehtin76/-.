@@ -1,0 +1,16 @@
+{
+  "appTitle": "Stars",
+  "login": "Iniciar sesión",
+  "signup": "Registrarse",
+  "feed": "Inicio",
+  "explore": "Explorar",
+  "upload": "Subir",
+  "profile": "Perfil",
+  "settings": "Ajustes",
+  "language": "Idioma",
+  "video": "Video",
+  "photo": "Foto",
+  "description": "Aplicación para gente talentosa",
+  "email": "Correo electrónico",
+  "password": "Contraseña"
+}

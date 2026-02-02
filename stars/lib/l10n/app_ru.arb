@@ -1,0 +1,16 @@
+{
+  "appTitle": "Stars",
+  "login": "Войти",
+  "signup": "Регистрация",
+  "feed": "Лента",
+  "explore": "Обзор",
+  "upload": "Загрузить",
+  "profile": "Профиль",
+  "settings": "Настройки",
+  "language": "Язык",
+  "video": "Видео",
+  "photo": "Фото",
+  "description": "Приложение для талантливых людей",
+  "email": "Эл. почта",
+  "password": "Пароль"
+}
